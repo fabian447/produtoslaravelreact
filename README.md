@@ -1,13 +1,13 @@
 Sistema web web de creación de productos  con API.
 
 
-Especificaciones de Backend:
+Especificaciones de Backend, carpeta (produtosback):
 -Laravel 7
 -Mysql
 -JWT Tokens
 
 
-Especificaciones del frontend:
+Especificaciones del frontend, carpeta (produtospanel):
 -React
 -Bootstrap
 
